@@ -1,0 +1,4 @@
+a)How to set the path variable
+  Ans: Open the enviornment variable tab
+  	   Double click to system "path" variable
+  	   Add java/jdk/bin path (ex - C:\Program Files\Java\jdk1.8.0_251\bin)
